@@ -24,8 +24,9 @@
 <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=green">
 </a>
 
-<a href="www.linkedin.com/in/gabriel-diniz-09a65a29b">
+<a href="https://linkedin.com/in/gabriel-diniz-09a65a29b">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=green">
+</a>
 </a>
 </p>
 
