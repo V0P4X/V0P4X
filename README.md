@@ -20,7 +20,7 @@
 ## 🌐 Connect with me
 
 <p align="left">
-<a href="https://www.instagram.com/gbxzera_/">
+<a href="https://www.linkedin.com/in/gabriel-diniz-09a65a29b/?trk=opento_sprofile_pfeditor">
 <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=green">
 </a>
 
