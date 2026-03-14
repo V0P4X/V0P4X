@@ -27,8 +27,12 @@
 <a href="https://linkedin.com/in/gabriel-diniz-09a65a29b">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=green">
 </a>
+</a
+
+<a href="https://steamcommunity.com/profiles/76561198878100974/">
+<img src="https://img.shields.io/badge/Steam-111111?style=for-the-badge&logo=steam&logoColor=green">
 </a>
-</p>
+ </p>
 
 ---
 
